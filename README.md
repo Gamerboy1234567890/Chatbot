@@ -4,6 +4,5 @@ This Is The Code For The Site For A Chatbot.
 no
 # How Can I Get It?
 Download The Release.
-
-#Is This A Step By Step Manual?
+# Is This A Step By Step Manual?
 Yes
